@@ -49,4 +49,4 @@ This document and diagram list the core features the backend must support for th
 
 The diagram below visualizes the categories and their features.
 
-![Features and Functionalities Diagram](./features.png)
+![Features and Functionalities Diagram](./features.drawio.png)
